@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Friday2\Friday2\bin\Debug\netcoreapp3.1\Friday2.exe
+C:\Users\opilane\source\repos\Friday2\Friday2\bin\Debug\netcoreapp3.1\Friday2.deps.json
+C:\Users\opilane\source\repos\Friday2\Friday2\bin\Debug\netcoreapp3.1\Friday2.runtimeconfig.json
+C:\Users\opilane\source\repos\Friday2\Friday2\bin\Debug\netcoreapp3.1\Friday2.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Friday2\Friday2\bin\Debug\netcoreapp3.1\Friday2.dll
+C:\Users\opilane\source\repos\Friday2\Friday2\bin\Debug\netcoreapp3.1\Friday2.pdb
+C:\Users\opilane\source\repos\Friday2\Friday2\obj\Debug\netcoreapp3.1\Friday2.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Friday2\Friday2\obj\Debug\netcoreapp3.1\Friday2.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Friday2\Friday2\obj\Debug\netcoreapp3.1\Friday2.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Friday2\Friday2\obj\Debug\netcoreapp3.1\Friday2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Friday2\Friday2\obj\Debug\netcoreapp3.1\Friday2.dll
+C:\Users\opilane\source\repos\Friday2\Friday2\obj\Debug\netcoreapp3.1\Friday2.pdb
+C:\Users\opilane\source\repos\Friday2\Friday2\obj\Debug\netcoreapp3.1\Friday2.genruntimeconfig.cache
